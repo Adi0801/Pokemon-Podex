@@ -19,3 +19,5 @@ model Pokemon {
   types   String // Assuming types are stored as an array of strings
   sprite  String
 }
+
+DATABASE_URL = "mysql://root:Aditya@2001@127.0.0.1:3306/pokemon"
